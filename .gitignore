@@ -1,0 +1,20 @@
+# PowerShell
+*.ps1xml
+*.psm1
+*.psd1
+*.ps1~
+*.tmp
+
+# Logs/backups generated locally
+Backups/
+Staging/
+Logs/
+*.bak
+*.bootbak_*
+*.modified.json
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
