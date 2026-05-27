@@ -5,6 +5,11 @@ Bring back the cute Windows Search Highlights taskbar **gleam** on EEA/DMA-regio
 > The gleam is the small changing illustration/icon shown inside the Windows taskbar Search box.  
 > This project is for people who want the tiny cute taskbar graphic back, not necessarily the whole “daily search slop” experience. 🦊
 
+<p align="center">
+  <img src="assets/taskbar.png" alt="Taskbar Search Gleam Example" />
+</p>
+
+
 ## What this does
 
 Windows 11 uses:
